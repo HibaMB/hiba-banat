@@ -25,7 +25,6 @@ I enjoy transforming complex requirements into reliable software solutions throu
 - C#
 - Node.js
 - REST APIs
-- GraphQL
 - Entity Framework Core
 
 ### Database
@@ -35,11 +34,10 @@ I enjoy transforming complex requirements into reliable software solutions throu
 
 ### Tools & Practices
 - Git
-- Docker
-- AWS
 - Visual Studio
 - VS Code
 - Clean Architecture
+- Microservices
 - Object-Oriented Design
 - API Integration Patterns
 

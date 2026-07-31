@@ -1,9 +1,6 @@
 # Hi, I'm Hiba Banat 👋
-
 I'm a **Full Stack Software Engineer and Technical Lead** with 7+ years of experience designing, developing, and delivering scalable web applications.
-
 I specialize in building modern web solutions using **Next.js, React, TypeScript, ASP.NET Core, C#, and Node.js**, with experience across frontend architecture, backend services, API development, and enterprise application design.
-
 I enjoy transforming complex requirements into reliable software solutions through clean architecture, maintainable code, and a strong focus on performance and user experience.
 
 ---
@@ -13,49 +10,61 @@ I enjoy transforming complex requirements into reliable software solutions throu
 ### Frontend
 - Next.js
 - React.js
+- Angular
 - TypeScript
 - JavaScript (ES6+)
 - Redux Toolkit
 - Tailwind CSS
-- Angular
+- Bootstrap
 - HTML5 / CSS3
 
 ### Backend
-- ASP.NET Core
 - C#
+- ASP.NET Core
+- ASP.NET MVC
+- ASP.NET Web API
 - Node.js
-- REST APIs
+- NestJS
 - Entity Framework Core
+- RESTful APIs
+- API Integration
 
 ### Database
 - SQL Server
-- Oracle
-- PostgreSQL
+- Oracle Database
+- PL/SQL
+- Database Design
+- Stored Procedures
 
-### Tools & Practices
-- Git
+### Architecture & Engineering
+- Enterprise Application Development
+- Microservices Architecture
+- Layered Architecture
+- Application Modernization
+
+### Tools
 - Visual Studio
 - VS Code
-- Clean Architecture
-- Microservices
-- Object-Oriented Design
-- API Integration Patterns
+
+### Leadership & Collaboration
+- Technical Leadership
+- Mentoring
+- Technical Interviews
+- Team Collaboration
 
 ---
 
 ## 🚀 What I Build
-
 - Scalable full-stack web applications
 - Modern dashboards and business applications
 - RESTful APIs and backend services
-- Secure authentication and authorization solutions
+- Enterprise-grade, customer-facing platforms
 - Responsive user interfaces
-- Maintainable frontend architectures
+- Maintainable frontend and backend architectures
 
 ---
 
 ## 💼 Professional Experience
-
 - Technical Lead — Software Engineering
 - Senior Software Engineer
 - Full Stack Developer
@@ -63,17 +72,16 @@ I enjoy transforming complex requirements into reliable software solutions throu
 
 Experienced in:
 - Leading technical delivery and software development initiatives
-- Designing and implementing web applications
+- Designing and implementing enterprise web applications
 - Reviewing code and improving software quality
 - Mentoring developers and sharing engineering best practices
 - Collaborating on technical solutions and architecture decisions
+- Conducting technical interviews and supporting hiring decisions
 
 ---
 
 ## 📌 Featured Projects
-
 Coming soon:
-
 - Next.js Portfolio Website
 - Full Stack Application
 - Authentication System
@@ -82,13 +90,10 @@ Coming soon:
 ---
 
 ## 🌱 Currently Learning
-
-- NestJS
 - Advanced Next.js patterns
 - Cloud architecture and deployment
 
 ---
 
 ## 📫 Contact
-
 Email: hibabanat.95@hotmail.com

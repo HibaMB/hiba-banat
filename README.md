@@ -1,10 +1,10 @@
 # Hi, I'm Hiba Banat 👋
 
-I'm a Full Stack Software Engineer and Technical Lead with 7+ years of experience building scalable web applications.
+I'm a **Full Stack Software Engineer and Technical Lead** with 7+ years of experience designing, developing, and delivering scalable web applications.
 
-I specialize in modern web development using **Next.js, React, TypeScript, ASP.NET Core, and Node.js**, with a focus on clean architecture, maintainable code, and great user experiences.
+I specialize in building modern web solutions using **Next.js, React, TypeScript, ASP.NET Core, C#, and Node.js**, with experience across frontend architecture, backend services, API development, and enterprise application design.
 
-I enjoy building reliable software solutions, solving complex technical problems, and continuously improving my engineering skills.
+I enjoy transforming complex requirements into reliable software solutions through clean architecture, maintainable code, and a strong focus on performance and user experience.
 
 ---
 
@@ -18,6 +18,7 @@ I enjoy building reliable software solutions, solving complex technical problems
 - Redux Toolkit
 - Tailwind CSS
 - Angular
+- HTML5 / CSS3
 
 ### Backend
 - ASP.NET Core
@@ -25,29 +26,49 @@ I enjoy building reliable software solutions, solving complex technical problems
 - Node.js
 - REST APIs
 - GraphQL
+- Entity Framework Core
 
 ### Database
 - SQL Server
 - Oracle
 - PostgreSQL
 
-### Tools
+### Tools & Practices
 - Git
 - Docker
 - AWS
 - Visual Studio
 - VS Code
+- Clean Architecture
+- Object-Oriented Design
+- API Integration Patterns
 
 ---
 
 ## 🚀 What I Build
 
-- Full-stack web applications
-- Business dashboards
-- Customer-facing platforms
-- REST API integrations
-- Authentication and authorization systems
-- Responsive and scalable user interfaces
+- Scalable full-stack web applications
+- Modern dashboards and business applications
+- RESTful APIs and backend services
+- Secure authentication and authorization solutions
+- Responsive user interfaces
+- Maintainable frontend architectures
+
+---
+
+## 💼 Professional Experience
+
+- Technical Lead — Software Engineering
+- Senior Software Engineer
+- Full Stack Developer
+- .NET Developer
+
+Experienced in:
+- Leading technical delivery and software development initiatives
+- Designing and implementing web applications
+- Reviewing code and improving software quality
+- Mentoring developers and sharing engineering best practices
+- Collaborating on technical solutions and architecture decisions
 
 ---
 
@@ -55,9 +76,10 @@ I enjoy building reliable software solutions, solving complex technical problems
 
 Coming soon:
 
-- Next.js Enterprise Dashboard
+- Next.js Portfolio Website
 - Full Stack Application
-- Authentication Starter
+- Authentication System
+- Enterprise Dashboard
 
 ---
 
@@ -65,7 +87,7 @@ Coming soon:
 
 - NestJS
 - Advanced Next.js patterns
-- Cloud deployment
+- Cloud architecture and deployment
 
 ---
 

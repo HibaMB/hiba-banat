@@ -71,6 +71,4 @@ Coming soon:
 
 ## 📫 Contact
 
-LinkedIn: YOUR_LINKEDIN_URL
-
-Email: YOUR_EMAIL
+Email: hibabanat.95@hotmail.com
